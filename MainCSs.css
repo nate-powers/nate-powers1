@@ -1,0 +1,35 @@
+graywhalepic {
+	width: 500px;
+	height: 300px;
+}
+.nav {
+	overflow: hidden;
+	background-color: white;
+    font-color: orange;
+}
+.nav a {
+	list-style-type: a.hover.opacity: 70; background-color: blue; circle
+	background-color: white;
+    font-family: times new roman;
+    font-color: orange;
+    margin: 20px 1px 20px 1px;
+    padding: 20px 1px 20px 1px;
+    display: block;
+    text-align: center;
+    float: left;
+    text-spacing: 50px;
+    background: no-repeat;
+}
+
+.aside1 {
+	width: 100
+    height: 100
+    color: #0000ff
+    padding: 100;
+    margin: 100;
+}
+.span1 {
+  margin: 100
+  padding: 100;
+  background-color: white;
+}
