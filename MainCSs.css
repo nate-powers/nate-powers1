@@ -1,35 +1,71 @@
-graywhalepic {
+.grayWhalePic {
 	width: 500px;
 	height: 300px;
 }
-.nav {
-	overflow: hidden;
-	background-color: white;
+.pacificOceanPic {
+    width: 259px;
+    height: 500px;
+    padding: 300px;
+    margin: 300px;
+}
+#hammerhead {
+    width: 200px;
+    height: 300px;
+}
+#table1 {
+    background-color: orange;
+    font-family: sans-serif;
+}
+.head1 {
+    font-family: sans-serif;
+
+}
+#form {
+    background-color: rgba(10,150,10,10);
+}
+#nav {
+    list-style-type: a.hover.opacity: 70 background-color: blue circle;
+    background-color: white;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    font-color: cyan;
+    margin: 50x 25px 50px 25px;
+    padding: 50px 25px 50px 25px;
+    display:  inline;
+    text-align: center;
+    float: left;
+    text-spacing: 50px;
+    background: no-repeat
+    border: dashed;
+}
+#nav {
+    overflow: hidden;
+	background-color: orange;
     font-color: orange;
 }
-.nav a {
-	list-style-type: a.hover.opacity: 70; background-color: blue; circle
-	background-color: white;
-    font-family: times new roman;
-    font-color: orange;
-    margin: 20px 1px 20px 1px;
-    padding: 20px 1px 20px 1px;
-    display: block;
+#nav a {
+	list-style-type: a.hover.opacity: 70; background-color: blue; circle;
+    font-family: sans-serif;
+    font-color: cyan;
+    margin: 50px 25px 25px 50px;
+    padding: 50px 25px 50px 25px;
+    display: inline;
     text-align: center;
     float: left;
     text-spacing: 50px;
     background: no-repeat;
+    border: dashed;
 }
 
 .aside1 {
-	width: 100
-    height: 100
-    color: #0000ff
+    width: 100;
+    height: 100;
+    color: #0000ff;
     padding: 100;
     margin: 100;
 }
 .span1 {
-  margin: 100
+  margin: 100;
   padding: 100;
   background-color: white;
 }
